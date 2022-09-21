@@ -1,0 +1,19 @@
+name: OrbitalEconomy
+version: '${version}'
+main: com.iamforyydev.orbitaleconomy.OrbitalEconomy
+authors: [ iAmForyyDev_ ]
+description: simple plugin economy to Orbital
+
+commands:
+  balance:
+    usage: /<command>
+    aliases:
+      - bal
+  setbalance:
+    usage: /<command>
+    aliases:
+      - setbal
+  earn:
+    usage: /<command>
+  give:
+    usage: /<command>
